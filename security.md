@@ -17,7 +17,7 @@ Data is being communicated on port 80 (http). No Input data. Output is public da
 ## nice to haves
 
 ## Security settings features deployed (autho, https)
-## Secuirty Improvement roadmap
+## Security Improvement roadmap
 https will be enabled and enforced by end of 2022
 
 ## Major Security update history
